@@ -1,0 +1,2 @@
+Algorithms solve computational problems efficiently.
+Sorting and searching are common algorithms.

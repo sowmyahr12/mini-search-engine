@@ -1,0 +1,2 @@
+A database stores and manages information.
+SQL is used to query relational databases.

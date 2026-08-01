@@ -1,0 +1,2 @@
+Computer networks connect devices together.
+Protocols such as TCP and IP allow communication.
